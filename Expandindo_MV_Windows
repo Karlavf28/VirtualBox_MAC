@@ -1,0 +1,17 @@
+Para expandir uma máquina virtual do windows no VirtualBox instalado no macOS:
+
+1 - Desligue a máquina virtual do Windows.
+
+2 -  Selecione no campo superior do Virtualbox - Arquivo -> Gerenciador de Mídias Virtuais 
+
+3 - Selecione a máquina virtual desejada e e aloque uma maior quantidade de memória disponível.
+
+4 - Entre e faça login na Máquina Virtual do Windows selecinada anteriormente.
+
+5- Na barra de pesquisar digite  disco -> Selecione:  Criar e formatar partições do disco rígido
+
+6 - Selecione a partição em que tem o windows instalado.
+
+7 - Clique em expandir. Irá aparecer a quantidade disponibilizada por você anteriormente. 
+
+8 - Clique em aplicar. Pronto. Você já possui mais espaço na sua máquina virtual.
